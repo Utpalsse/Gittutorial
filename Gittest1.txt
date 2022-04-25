@@ -1,0 +1,5 @@
+Hi
+This is my first file to practice Git.
+
+Added some changes to test the skip of staging area
+Changing in working area to test the 'Git Diff' command
