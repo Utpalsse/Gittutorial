@@ -1,2 +1,3 @@
 Index
-Message 'This is message 6'
+Message 'This is message 7'
+
